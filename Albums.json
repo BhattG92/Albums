@@ -1,0 +1,38 @@
+[
+    {
+        "Artist": "Lionel Richie",
+        "Album Title": "Can't Slow Down",
+        "Release Year": 1983,
+        "Songs": [
+            "All Night Long",
+            "Penny Lover",
+            "Running With the Night",
+            "Stuck on You",
+            "Hello"
+        ]
+    },
+    {
+        "Artist": "Lil Wayne",
+        "Album Title": "Carter V",
+        "Release Year": 2018,
+        "Songs": [
+            "Mona Lisa",
+            "Uproar",
+            "Let it Fly",
+            "Demon",
+            "Used 2"
+        ]
+    },
+    {
+        "Artist": "Bruno Mars",
+        "Album Title": "Silk Sonic",
+        "Release Year": 2021,
+        "Songs": [
+            "Love's Train",
+            "Leave the Door Open",
+            "Silk Sonic Intro",
+            "Smoking Out the Window",
+            "Put on a Smile"
+        ]
+    }
+]
